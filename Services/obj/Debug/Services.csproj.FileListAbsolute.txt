@@ -1,0 +1,17 @@
+C:\Users\mauro.sanz\source\repos\Amaris\Services\bin\Debug\Services.dll
+C:\Users\mauro.sanz\source\repos\Amaris\Services\bin\Debug\Services.pdb
+C:\Users\mauro.sanz\source\repos\Amaris\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\mauro.sanz\source\repos\Amaris\Services\obj\Debug\Services.dll
+C:\Users\mauro.sanz\source\repos\Amaris\Services\obj\Debug\Services.pdb
+C:\Users\mauro.sanz\source\repos\Amaris\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mauro.sanz\source\repos\Amaris\Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mauro.sanz\source\repos\Amaris\Services\bin\Debug\Models.dll
+C:\Users\mauro.sanz\source\repos\Amaris\Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mauro.sanz\source\repos\Amaris\Services\bin\Debug\Models.pdb
+C:\Users\mauro.sanz\source\repos\Amaris\Services\bin\Debug\Models.dll.config
+C:\Users\mauro.sanz\source\repos\Amaris\Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mauro.sanz\source\repos\Amaris\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\mauro.sanz\source\repos\Amaris\Services\bin\Debug\Contracts.dll
+C:\Users\mauro.sanz\source\repos\Amaris\Services\bin\Debug\Contracts.pdb
+C:\Users\mauro.sanz\source\repos\Amaris\Services\bin\Debug\Services.dll.config
+C:\Users\mauro.sanz\source\repos\Amaris\Services\bin\Debug\Contracts.dll.config
